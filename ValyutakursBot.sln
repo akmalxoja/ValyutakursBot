@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValyutakursBot", "ValyutakursBot\ValyutakursBot.csproj", "{468148D8-3ED2-41A4-A358-2C61F027678F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{468148D8-3ED2-41A4-A358-2C61F027678F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{468148D8-3ED2-41A4-A358-2C61F027678F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{468148D8-3ED2-41A4-A358-2C61F027678F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{468148D8-3ED2-41A4-A358-2C61F027678F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF582C64-7A7F-4102-8D3E-B5014A96740E}
+	EndGlobalSection
+EndGlobal
