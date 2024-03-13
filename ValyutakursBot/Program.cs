@@ -7,7 +7,7 @@ namespace  ValyutakursBot
     {
         static async Task Main(string[] args)
         {
-            const string token = "7033156784:AAH1DvKtUeau6V8rk2VSOZHn4OcRw78MXGs";
+            const string token = "7033156784:AAH1DvKtUeau6V8rk2VSOZHn4OcRw78MXGs"; // Tokenni bekiting
             TelegramBotHandler telegramBotHandler = new TelegramBotHandler(token);
 
             try
